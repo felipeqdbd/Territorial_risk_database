@@ -22,15 +22,10 @@ The outputs are screening and planning aids. They do not determine final project
 ├── VENTO_pipeline_reproducible.ipynb
 ├── requirements.txt
 ├── data/
-│   ├── dataset_completo.csv
-│   └── variables_metadata.csv
-├── results/
-│   ├── VENTO_sensibilidad_escenarios_pesos.csv
-│   ├── VENTO_sensibilidad_extrema_50000_resumen.csv
-│   └── VENTO_sensibilidad_extrema_50000_municipios.csv
-└── manuscript/
-    ├── Article_FV_E_minimal_revision.tex
-    └── Response_to_Reviewers.tex
+    ├── dataset_completo.csv
+    └── variables_metadata.csv
+
+
 ~~~
 
 The files are currently delivered in the working directory and can be organized into the structure above before publication.
