@@ -101,14 +101,13 @@ Under moderate perturbations, 96 of the 111 selected municipalities were robust,
 
 - Definition and unit.
 - Role and transformation.
-- Risk direction and Colombian case-study weight.
-- Source institution and URL/DOI.
-- Reference period.
-- Native spatial resolution.
-- Municipal aggregation.
+- Risk direction.
+- Source institution.
+- Reference year / period
+- Spatial resolution / municipal processing
 - Update date and validation notes.
 
-Complete all source and time-reference fields before public release. Security variables are time-sensitive and should include a clear observation period and update date.
+
 
 ## Responsible use
 
