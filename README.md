@@ -121,19 +121,7 @@ Under moderate perturbations, 96 of the 111 selected municipalities were robust,
 
 Future validation should compare the preliminary categories with independent, time-stamped incident data and structured assessments by security, territorial, and local experts. Priority should be given to detecting false-low classifications and evaluating whether remote-first approaches reach groups with connectivity or representation barriers.
 
-## Data and code availability
 
-Replace the following placeholder after depositing the repository:
-
-~~~text
-DATA_REPOSITORY_URL
-~~~
-
-A citable release through Zenodo or OSF is recommended. GitHub can be connected to Zenodo to mint a DOI for a tagged release.
-
-## Citation
-
-Add the final article citation and repository DOI here after acceptance.
 
 ## License
 
